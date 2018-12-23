@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: DankDominick // Dominick
+title: Dominick
 description: I'm Dominick.
+plugins:
+  - jekyll-redirect-from
