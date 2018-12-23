@@ -1,4 +1,0 @@
----
-layout: redirect
-redirect_url: https://www.youtube.com/channel/UC7hofdJFBeauO_kBBlgBWkw?sub_confirmation=1
----
