@@ -16,8 +16,8 @@ Here, I will list all the vehicles that I own in Jailbreak. This list will be up
 |ATV              |$50,000                 |           |             |
 |Porsche          |$50,000                 |           |             |
 |Ambulance        |$70,000                 |           |             |
-|Lamborghini      |$90,000                 |           |             |
-|Ferrari          |$100,000                |Yes        |N/A          |
+|Lamborghini      |$90,000                 |Yes        |N/A          |
+|Ferrari          |$100,000                |           |             |
 |McLaren          |$200,000                |           |             |
 |UFO              |$300,000                |           |             |
 |Bugatti          |$500,000                |Yes        |N/A          |
