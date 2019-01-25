@@ -6,7 +6,7 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |Helicopter       |Free                    |Yes        |N/A          |
 |Camaro           |Free                    |Yes        |N/A          |
 |Pickup Truck     |$9000                   |Yes        |N/A          |
-|Tesla Model3     |$16,000                 |           |             |
+|Tesla Model3     |$16,000                 |Yes        |2019-01-24   |
 |Mini-Cooper      |$25,000                 |Yes        |N/A          |
 |Dirtbike         |$35,000                 |           |             |
 |SUV              |$40,000                 |           |             |
