@@ -28,4 +28,3 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |BlackHawk        |$1,000,000              |Yes        |2019-01-24   |
 |Wraith           |BOSS Gamepass (R$300)   |           |             |
 |SWAT Van         |SWAT Gamepass (R$300)   |Yes        |N/A          |
-|-----------------|------------------------|-----------|-------------|
