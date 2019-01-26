@@ -13,7 +13,7 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |Dune Buggy       |$45,000                 |           |             |
 |Mustang          |$50,000                 |           |             |
 |Classic Car      |$50,000                 |           |             |
-|ATV              |$50,000                 |           |             |
+|ATV              |$50,000                 |Yes        |2019-01-25   |
 |Porsche          |$70,000                 |           |             |
 |Ambulance        |$90,000                 |           |             |
 |Lamborghini      |$100,000                |Yes        |N/A          |
@@ -28,3 +28,4 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |BlackHawk        |$1,000,000              |Yes        |2019-01-24   |
 |Wraith           |BOSS Gamepass (R$300)   |           |             |
 |SWAT Van         |SWAT Gamepass (R$300)   |Yes        |N/A          |
+|-----------------|------------------------|-----------|-------------|
