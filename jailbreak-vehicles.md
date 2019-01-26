@@ -7,8 +7,8 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |Camaro           |Free                    |Yes        |N/A          |
 |Pickup Truck     |$9000                   |Yes        |N/A          |
 |Model3           |$16,000                 |Yes        |2019-01-24   |
-|Mini-Cooper      |$25,000                 |Yes        |N/A          |
-|Dirtbike         |$35,000                 |           |             |
+|Mini-Cooper      |$25,000                 |           |             |
+|Dirtbike         |$35,000                 |Yes        |N/A          |
 |SUV              |$40,000                 |           |             |
 |Dune Buggy       |$45,000                 |           |             |
 |Mustang          |$50,000                 |           |             |
