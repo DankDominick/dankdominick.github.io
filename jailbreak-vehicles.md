@@ -14,7 +14,7 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |Mustang          |$50,000                 |           |             |
 |Classic Car      |$50,000                 |           |             |
 |ATV              |$50,000                 |Yes        |2019-01-25   |
-|Porsche          |$70,000                 |           |             |
+|Porsche          |$70,000                 |Yes        |2019-01-27   |
 |Ambulance        |$90,000                 |           |             |
 |Lamborghini      |$100,000                |Yes        |N/A          |
 |Ferrari          |$200,000                |           |             |
