@@ -21,7 +21,7 @@ Here, I will list all the vehicles that I own in Jailbreak ROBLOX. This list wil
 |McLaren          |$300,000                |           |             |
 |UFO              |$500,000                |           |             |
 |Bugatti          |$500,000                |Yes        |N/A          |
-|Torpedo          |$750,000                |           |             |
+|Torpedo          |$750,000                |Yes        |2019-02-09   |
 |Arachnid         |$750,000                |           |             |
 |Volt Bike        |$1,000,000              |           |             |
 |Monster Truck    |$1,000,000              |           |             |
